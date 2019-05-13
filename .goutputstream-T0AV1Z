@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(139, 189, 139);
+}
+h1{
+    color:black;
+    text-align: left;
+    border:3px solid black;
+    size: 12px;
+    font-family: arial, bold;
+
+
+
+}
+h2{
+    color:rgb(42, 82, 42);
+    text-align: left;
+
+}
+h3{
+
+}
